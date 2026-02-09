@@ -42,8 +42,7 @@
 
 - Strengthen programming fundamentals  
 - Build real-world projects  
-- Learn DSA  
-- Become a Full Stack Developer  
+- Learn DSA    
 
 ---
 
