@@ -53,4 +53,3 @@
 ---
 
 ⭐ *Consistency > Motivation*
-## Hi there 👋
