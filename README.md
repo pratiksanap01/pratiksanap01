@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src = "https://github.com/isocpp/logos" width = "50"/> 
+  <img src = "https://github.com/isocpp/logos](https://github.com/isocpp/logos" width = "50"/> 
 </p>
 
 
